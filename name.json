@@ -1,0 +1,8 @@
+{
+
+    "nginx_env": {
+      
+      "ngx_lifecycle_action": "uninstall"
+    }
+  
+}

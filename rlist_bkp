@@ -1,0 +1,6 @@
+{
+  "run_list": ["recipe[buildenv::prereq]" ],
+  "buildenv": {
+    "version":    "1.0"
+  }
+}
